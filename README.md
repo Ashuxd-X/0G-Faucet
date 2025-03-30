@@ -100,6 +100,24 @@
 - Rate limiting protection
 - IP geolocation tracking
 
+## 📞 Support
+
+For support, join our Telegram channel: [Looters Era](https://telegram.dog/lootersera_th)
+
+## ⚠️ Disclaimer
+
+> **Educational Purpose Only**
+>
+> This project is created for educational and learning purposes only. It serves as a demonstration of blockchain interaction and faucet claiming mechanisms.
+>
+> **Use at Your Own Risk**
+>
+> - This tool is provided "as is" without any warranties
+> - Users are responsible for their own actions and compliance with network rules
+> - The developers are not responsible for any misuse or consequences
+> - Always verify the security and legitimacy of any blockchain interaction
+> - Use this tool responsibly and in accordance with the network's terms of service
+
 ## 📝 License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
@@ -115,7 +133,7 @@ For support, join our Telegram channel: [Looters Era](https://telegram.dog/loote
 ---
 
 <div align="center">
-  <h3>Made with ❤️ by Ash || XD</h3>
+  <h3>Made with ❤️ by Ashu || XD</h3>
 </div>
 
 <!--
