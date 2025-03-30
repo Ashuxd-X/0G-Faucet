@@ -1,0 +1,7 @@
+[
+  {
+    "address": "0x1234567890123456789012345678901234567890",
+    "private_key": "your_private_key_here",
+    "public_key": "your_public_key_here"
+  }
+]
