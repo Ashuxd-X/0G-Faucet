@@ -115,7 +115,7 @@ For support, join our Telegram channel: [Looters Era](https://telegram.dog/loote
 ---
 
 <div align="center">
-  <h3>Made with ❤️ by Ash || XD</h3>
+  <h3>Made with ❤️ by Ashu || XD</h3>
 </div>
 
 <!--
