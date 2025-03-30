@@ -1,34 +1,42 @@
-# 🚀 0G Faucet Claimer
+# 0G Faucet 🚰
 
-<div align="center">
+[![Python](https://img.shields.io/badge/python-3.8+-blue.svg)](https://www.python.org/downloads/)
+[![License](https://img.shields.io/badge/license-MIT-green.svg)](LICENSE)
+[![Status](https://img.shields.io/badge/status-active-brightgreen.svg)](https://github.com/Ashuxd-X/0G-Faucet)
 
-![0G Faucet](https://img.shields.io/badge/0G-Faucet-blue)
-![Python](https://img.shields.io/badge/Python-3.8+-blue)
-![License](https://img.shields.io/badge/License-MIT-green)
-
-</div>
-
-<div align="center">
-  <h3>⚡ Fast & Efficient Faucet Claiming ⚡</h3>
-</div>
+A powerful and secure faucet system for the 0G Network, designed to distribute test tokens efficiently and fairly. Built with Python and FastAPI, this faucet system provides a robust solution for developers and users to obtain test tokens on the 0G Network.
 
 ## 🌟 Features
 
-> 🔄 **Multi-wallet Support**: Process multiple wallets simultaneously
->
-> 🌐 **Smart Proxy Rotation**: Automatic proxy switching with health tracking
->
-> 📍 **IP Geolocation**: Track and manage IP locations
->
-> 🛡️ **Anti-Bot Protection**: Built-in protection mechanisms
->
-> ⚡ **Multi-threading**: Process multiple claims concurrently
->
-> 🤖 **CAPTCHA Integration**: Automatic CAPTCHA solving
->
-> 📊 **Detailed Analytics**: Comprehensive logging and statistics
->
-> ✅ **Success Tracking**: Monitor successful and failed claims
+- **Secure Authentication**: Multi-level security with API key and wallet verification
+- **Rate Limiting**: Built-in protection against abuse
+- **Fair Distribution**: Smart cooldown system to ensure equitable token distribution
+- **Easy Configuration**: Simple setup through environment variables
+- **Detailed Logging**: Comprehensive logging for monitoring and debugging
+- **Health Monitoring**: Built-in health check endpoint
+- **Error Handling**: Robust error management and user feedback
+- **Documentation**: Comprehensive API documentation with Swagger UI
+
+## 📋 Description
+
+The 0G Faucet is a specialized service designed to facilitate the distribution of test tokens on the 0G Network. It serves as a crucial tool for developers, testers, and users who need test tokens for development, testing, or experimentation purposes.
+
+### Key Capabilities
+
+- **Token Distribution**: Efficiently distributes test tokens to verified users
+- **Security Measures**: Implements multiple security layers to prevent abuse
+- **User Management**: Tracks user requests and implements cooldown periods
+- **Network Integration**: Seamlessly connects with the 0G Network
+- **Monitoring Tools**: Provides detailed insights into faucet operations
+- **Developer Friendly**: Easy to set up and integrate with existing systems
+
+### Use Cases
+
+- Development and testing on the 0G Network
+- User onboarding and testing
+- Network stress testing
+- Integration testing
+- Educational purposes
 
 ## 🛠️ Installation
 
