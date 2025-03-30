@@ -30,13 +30,19 @@
 >
 > ✅ **Success Tracking**: Monitor successful and failed claims
 
-## 🛠️ Requirements
+## 🛠️ Installation
 
-- Python 3.8+
-- Required packages:
-  ```bash
-  pip install -r requirements.txt
-  ```
+1. Clone the repository:
+
+   ```bash
+   git clone https://github.com/Ashuxd-X/0G-Faucet.git
+   cd 0G-Faucet
+   ```
+
+2. Install dependencies:
+   ```bash
+   pip install -r requirements.txt
+   ```
 
 ## ⚙️ Configuration
 
@@ -53,19 +59,13 @@
 
 ## 🚀 Usage
 
-1. Install dependencies:
-
-   ```bash
-   pip install -r requirements.txt
-   ```
-
-2. Run the script:
+1. Run the script:
 
    ```bash
    python src/faucet.py
    ```
 
-3. Follow the prompts:
+2. Follow the prompts:
    - Create new wallets (optional)
    - Set number of concurrent threads
    - Monitor the claiming process
@@ -73,7 +73,7 @@
 ## 📁 Project Structure
 
 ```
-0g-faucet-claimer/
+0G-Faucet/
 ├── 📄 README.md
 ├── 📄 requirements.txt
 ├── 📄 .env.example
@@ -115,7 +115,7 @@ For support, join our Telegram channel: [Looters Era](https://telegram.dog/loote
 ---
 
 <div align="center">
-  <h3>Made with ❤️ by Ashu || XD</h3>
+  <h3>Made with ❤️ by Ash || XD</h3>
 </div>
 
 <!--
