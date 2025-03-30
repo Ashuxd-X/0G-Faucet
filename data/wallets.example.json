@@ -1,5 +1,3 @@
-#If you want to use your own wallets save in this format in wallets.json 
-
 [
   {
     "address": "0x1234567890123456789012345678901234567890",
