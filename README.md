@@ -105,7 +105,7 @@
 
    ```env
    ANTICAPTCHA_API_KEY=your_anticaptcha_api_key
-   FAUCET_URL=https://faucet.0g.ai/api/claim
+   FAUCET_URL=https://faucet.0g.ai/api/faucet
    ```
 
 3. Prepare data files:
