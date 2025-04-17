@@ -242,7 +242,7 @@ Contributions are welcome! Please feel free to submit a Pull Request.
 
 ## 📞 Support
 
-For support, join our Telegram channel: [Looters Era](https://telegram.dog/lootersera_th)
+For support, join our Telegram channel: [Ashu Crypto](https://telegram.dog/AshuCryptoXd)
 
 ---
 
